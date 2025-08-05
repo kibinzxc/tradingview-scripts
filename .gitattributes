@@ -1,1 +1,2 @@
-*.pine linguist-language=JavaScript
+*.pine linguist-language=Typescript
+# This file is used to define attributes for the Git repository.
